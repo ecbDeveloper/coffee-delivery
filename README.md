@@ -69,6 +69,3 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 	```bash
 	http://localhost:5173
 	```
-## 🤝 Contribution
-Contributions are welcome! Feel free to open issues or submit pull requests. 💡.
-
