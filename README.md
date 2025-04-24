@@ -50,7 +50,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/ecbDeveloper/coffee-delivery.git
 
    cd coffee-delivery
    ```
