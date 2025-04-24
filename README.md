@@ -28,15 +28,15 @@ The project is organized as follows:
 ```bash
 project-root/
 ├── src/
-│   ├── assets/               # Imagens, ícones e recursos estáticos
-│   ├── components/           # Componentes reutilizáveis (ex: Button, Modal)
-│   ├── contexts/             # Context API para gerenciamento de estado global
-│   ├── layout/               # Layout padrão da aplicação (ex: Header, Footer, Sidebar)
-│   ├── pages/                # Páginas principais (ex: Home, Checkout, Success)
-│   ├── styles/               # Estilos globais e temas do Tailwind CSS
-│   ├── App.tsx               # Componente principal da aplicação
-│   ├── Router.tsx            # Configuração das rotas da aplicação
-│   └── main.tsx              # Ponto de entrada do React
+│   ├── assets/               # Images, icons, and static resources
+│   ├── components/           # Reusable components (e.g., Button, Modal)
+│   ├── contexts/             # Context API for global state management
+│   ├── layout/               # Default layout of the application (e.g., Header, Footer, Sidebar)
+│   ├── pages/                # Main pages (e.g., Home, Checkout, Success)
+│   ├── styles/               # Global styles and Tailwind CSS themes
+│   ├── App.tsx               # Main component of the application
+│   ├── Router.tsx            # Configuration of application routes
+│   └── main.tsx              # React entry point
 ```
 
 ## 🚀 How to Run the Project
